@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to skymatrix</h1>
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-2.4.5-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-114514-blue.svg?cacheSeconds=2592000" />
   <img alt="Download" src="https://img.shields.io/github/downloads/seiuna/aifadianApi/total"/>
   <img alt="V" src="https://img.shields.io/badge/Java-20-green" style=""/>
 </p>

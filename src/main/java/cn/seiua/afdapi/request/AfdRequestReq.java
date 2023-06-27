@@ -29,7 +29,6 @@ public class AfdRequestReq {
     public AfdRequestReq setup() {
         try {
             ts = System.currentTimeMillis() / 1000;
-            System.out.println(ts);
             String v = mapper.writeValueAsString(param);
             params = v;
             v = token + "params" + params + "ts" + ts + "user_id" + user_id;
